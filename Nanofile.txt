@@ -1,2 +1,2 @@
 This is my first nano save. I can write what I want and just save it 
-using control - o (^o).
+using control - o (^o). Now I can edit the file. 
